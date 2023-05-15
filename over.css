@@ -1,13 +1,13 @@
 .retangle{
     position: absolute;
-width: 1490px;
+width: 100vw;
 height: 120.32px;
 
 background: #FF0800;
 }
 .kenjutsu{
     position: absolute;
-width: 1490;
+width: 100vw;
 height: 708.42px;
 left: -7px;
 top: 108.76px;

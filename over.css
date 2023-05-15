@@ -1,7 +1,17 @@
 .retangle{
     position: absolute;
-width: 1980px;
+width: 2000px;
 height: 120.32px;
 
 background: #FF0800;
+}
+.kenjutsu{
+    position: absolute;
+width: 1454.37px;
+height: 708.42px;
+left: -7px;
+top: 108.76px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(kenjutsu-BK10_g.jpg);
+filter: blur(1.92504px);
 }

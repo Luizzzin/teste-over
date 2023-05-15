@@ -15,3 +15,7 @@ top: 108.76px;
 background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(kenjutsu-BK10_g.jpg);
 filter: blur(1.92504px);
 }
+*{
+    margin: 0;
+    border: 0;
+}

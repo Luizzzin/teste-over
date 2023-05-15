@@ -5,17 +5,16 @@ height: 120.32px;
 
 background: #FF0800;
 }
-.kenjutsu{
-    position: absolute;
-width: 100vw;
-height: 708.42px;
-left: -7px;
-top: 108.76px;
-
-background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(kenjutsu-BK10_g.jpg);
-filter: blur(1.92504px);
-}
 *{
     margin: 0;
     border: 0;
+}
+.bola{
+    position: absolute;
+width: 232.93px;
+height: 232.93px;
+left: -21px;
+top: -71px;
+
+background: #FFFFFF;
 }

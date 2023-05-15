@@ -1,5 +1,5 @@
 div{
-    width: 1700;
+    width: 100vw;
     height: 120.32px;
     background-color : red;
     position: absolute; 
@@ -17,11 +17,12 @@ align-items: flex-start;
 flex-direction: column;
 justify-content: flex-start;
 
-    width: 1700px;
+    width: 100vw;
     height: 120.32px;
 
 }
 *{
     border:0;
     margin: 0;
+    padding: 0;
 }

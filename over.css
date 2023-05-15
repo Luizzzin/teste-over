@@ -1,29 +1,27 @@
-.retangle{
-    position: absolute;
-width: 100vw;
-height: 120.32px;
-
-background: #FF0800;
+div{
+    width: 1700;
+    height: 120.32px;
+    background-color : red;
+    position: absolute; 
 }
-
-*{
-    margin: 0;
-    border: 0;
-}
-
 .bola{
-    position: absolute;
-width: 232.93px;
-height: 232.93px;
-left: -21px;
-top: -71px;
-
-background: #FFFFFF;
+    width: 232.93px;
+    height: 232.93px;
+    background-color :rgb(255, 255, 255);
+    border-radius: 50%;
+    background-image: element(div);
 }
 .container{
-    height: 232.93px;
-    width: 100vw;
+display: flex ;
+align-items: flex-start;
+flex-direction: column;
+justify-content: flex-start;
+
+    width: 1700px;
+    height: 120.32px;
+
 }
-.container .retangle{
-    position: absolute;
+*{
+    border:0;
+    margin: 0;
 }

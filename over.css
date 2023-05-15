@@ -18,3 +18,9 @@ top: -71px;
 
 background: #FFFFFF;
 }
+.retangle .bola{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}

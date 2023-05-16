@@ -4,8 +4,8 @@ div{
     background-color : red; 
 }
 .bola{
-    width: 210px;
-    height: 210px;
+    width: 200px;
+    height: 200px;
     position: absolute;
     top: -10px;
     z-index: 0;
@@ -26,7 +26,29 @@ div{
 .back{
     width: 100vw;
     height: auto;
-    z-index: 7;
+    z-index: 3;
     position: absolute;
+
+    top: 110px;
     
+}
+.volume{
+    position: absolute;
+width: 740.59px;
+height: 713.69px;
+left: 708.61px;
+top: 129.94px;
+z-index: 5;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+}
+.volume2{
+    position: absolute;
+width: 740.59px;
+height: 713.69px;
+left: 708.61px;
+top: 129.94px;
+z-index: 7;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
 }

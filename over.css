@@ -1,19 +1,13 @@
 div{
     width: 100vw;
     height: 120.32px;
-    background-color : red;
-    position: absolute; 
+    background-color : red; 
 }
 .bola{
-    width: 232.93px;
-    height: 232.93px;
-    background-color :rgb(255, 255, 255);
-    border-radius: 50%;
-    background-image: element(div);
-    display: flex ;
-align-items: center;
-flex-direction: column;
-justify-content: center;
+    width: 210px;
+    height: 210px;
+    position: absolute;
+    top: -10px;
 }
 .container{
 display: flex ;
@@ -23,14 +17,9 @@ justify-content: flex-start;
 
     width: 100vw;
     height: 120.32px;
-
 }
 *{
     border:0;
     margin: 0;
     padding: 0;
-}
-#dojo{
-    height: 100px;
-    width: 100px;
 }

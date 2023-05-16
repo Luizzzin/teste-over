@@ -1,3 +1,6 @@
+body{
+    height: 5085px;
+}
 div{
     width: 100vw;
     height: 120.32px;
@@ -26,7 +29,7 @@ div{
 .back{
     width: 100vw;
     height: auto;
-    z-index: 3;
+    z-index: 2;
     position: absolute;
 
     top: 110px;
@@ -38,7 +41,7 @@ width: 740.59px;
 height: 713.69px;
 left: 708.61px;
 top: 129.94px;
-z-index: 5;
+z-index: 3;
 
 background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
 }
@@ -48,7 +51,96 @@ width: 740.59px;
 height: 713.69px;
 left: 708.61px;
 top: 129.94px;
-z-index: 7;
+z-index: 3;
 
 background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+}
+.titulo{
+    position: absolute;
+width: 442px;
+height: 67px;
+left: 858px;
+top: 346.22px;
+z-index: 4;
+
+font-family: 'Alike Angular';
+font-style: normal;
+font-weight: 400;
+font-size: 53.6573px;
+line-height: 67px;
+
+color: #000000;
+}
+.titulo2{
+    position: absolute;
+width: 480px;
+height: 42px;
+left: 840.76px;
+top: 422.86px;
+z-index: 4;
+
+font-family: 'Amiri';
+font-style: normal;
+font-weight: 400;
+font-size: 23.7051px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.titulo3{
+    position: absolute;
+    width: 400px;
+    height: 80px;
+    left: 955px;
+    top: 461px;
+    z-index: 4;
+    
+    font-family: 'Amiri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 40px;
+    
+    color: #000000;
+}
+.retan{
+    position: absolute;
+    width: 100vw;
+    height: 70px;
+    left: 0px;
+    top: 800px;
+    
+    background: #000000;
+}
+body{
+    height: 5085px;
+}
+.linha {
+    position: absolute;
+    width: 66.41px;
+    height: 0px;
+    left: 48px;
+    top: 976.01px;
+    
+    border: 1.92504px solid #FF0000;
+    transform: rotate(-90deg);    
+}
+.nossosespaços{
+    position: absolute;
+width: 391px;
+height: 75px;
+left: 87px;
+top: 941px;
+
+font-family: 'Abril Fatface';
+font-style: normal;
+font-weight: 400;
+font-size: 57px;
+line-height: 77px;
+
+color: #000000;
+
+text-shadow: 0px 3.85009px 3.85009px rgba(0, 0, 0, 0.25);
 }

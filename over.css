@@ -8,6 +8,7 @@ div{
     height: 210px;
     position: absolute;
     top: -10px;
+    z-index: 0;
 }
 .container{
 display: flex ;
@@ -26,5 +27,6 @@ justify-content: flex-start;
 .back{
     width: 100vw;
     height: 100vh;
-    
+    position: absolute;
+    z-index: 1;
 }
